@@ -4,5 +4,43 @@
     "label":"hi",
     "email":"santhimuppalla98@gmail.com"
 
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "Education":[
+    {
+    "degree":"bTech(Information Technology)",
+    "institute":"pvp siddhardha",
+    "data":["2016-2020","95%"]
+  },
+  {
+  "degree":"inter(mpc)",
+  "institute":"sri chaitanya",
+  "data":["2014-2016","95%"]
+},
+{
+"degree":"ssc",
+"institute":"siva sai",
+"data":["2014","95%"]
+}
+],"skills":[
+  {
+    "title":"languages",
+    "content":["c","python","java","c#","c++","PHP","R"]
+  },
+  {
+    "title":"Database",
+    "content":["SQL","MYSQl","MongoDB"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","CSS","javascript","PHP"]
+  },
+  {
+    "title":"Frameworks",
+    "content":["Django","CodeIgnitor"]
   }
+]
+
 }
